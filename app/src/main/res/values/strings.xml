@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="default_web_client_id">194008569921-tiql2n0rd1bipmjo3uqi3ijscvhpqhcd.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">2467483620309765</string>
+    <string name="fb_login_protocol_scheme">fb2467483620309765</string>
+</resources>
