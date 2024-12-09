@@ -18,10 +18,16 @@
             android:exported="false" />
         <activity
             android:name=".DifficultyLevels"
-            android:exported="false" /> <!-- Facebook Login Configuration -->
+            android:exported="false" />
+
+
+        <!-- Facebook Login Configuration Reading String value of ID -->
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/facebook_app_id" /> <!-- Add Facebook Client Token -->
+            android:value="@string/facebook_app_id" />
+
+
+        <!-- Add Facebook Client Token -->
         <meta-data
             android:name="com.facebook.sdk.ClientToken"
             android:value="2913fa4b7d011f2170bff662cae8f6d1" />
